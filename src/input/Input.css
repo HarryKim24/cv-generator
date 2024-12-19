@@ -1,0 +1,15 @@
+#input {
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+  background-color: #242424;
+  color: rgb(255, 252, 88);
+  width: 500px;
+}
+
+#input h1 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
