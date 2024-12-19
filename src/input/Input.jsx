@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "../../src/input/input.css"
+import "../../public/styles/input.css"
 import PersonalDetails from "./personalDetails/PersonalDetails";
 import Education from "./education/Education";
 import Experience from "./experience/Experience";

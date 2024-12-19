@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "../../src/output/resume.css"
+import "../../public/styles/resume.css"
 
 const Resume = ({ formData }) => {
   const { personalDetails, educations, experience, skills } = formData;
